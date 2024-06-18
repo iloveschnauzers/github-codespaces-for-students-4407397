@@ -7,5 +7,5 @@
 
     "postAttachCommand": "nmp start",
 
-    "remoteUser": "node"
+    // "remoteUser": "node"
 }
